@@ -7,7 +7,7 @@
 
 ---
 
-![Dashboard Preview](assets/georgraphy.png)
+![Dashboard Preview](assets/geography.png)
 
 ---
 
