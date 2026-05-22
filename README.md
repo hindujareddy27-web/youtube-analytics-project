@@ -47,7 +47,7 @@ Raw Kaggle Data → Excel Cleaning → MySQL Analysis → Power BI Dashboard
 - Wrote analytical queries for subscriber conversion, revenue, geo audience and monetization
 
 ### 3. Power BI Dashboard
-- 2 page interactive dashboard with continent and category slicers
+- 3 page interactive dashboard with continent and category slicers
 - Tooltips on map bubbles with watch time, view %, and subscribers added
 - Insight subtitles on every chart — not just visuals, but conclusions
 
