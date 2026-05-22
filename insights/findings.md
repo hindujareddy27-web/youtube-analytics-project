@@ -58,7 +58,7 @@ Built a "YouTube Wrapped" style performance table using growth rate and impact s
 
 ---
 
-## Page 2 — Geography & Monetization Analysis
+## Page 2 — Geography Analysis
 
 ### Global Audience Geography
 One of YouTube's biggest advantages is its global reach — creators can find their audience without geographic restrictions. The geography dashboard visualizes audience density through bubbles on a world map, sized by view volume per country. Hovering over each bubble reveals additional details including average watch time, view percentage, and subscribers added.
@@ -66,6 +66,8 @@ One of YouTube's biggest advantages is its global reach — creators can find th
 A continent-wise slicer allows filtering the entire dashboard by region — making it easier to draw focused insights rather than looking at hundreds of countries at once. KPIs update dynamically based on the selected continent showing total views, watch time, and view percentage.
 
 Key finding: While the US dominates total views, CZ leads in average watch time — indicating a smaller but highly engaged audience exists outside the primary market. The donut chart provides a quick continent-level picture of where the audience originates.
+
+## Page 3 — Monetization Analysis
 
 ### Revenue & Monetization
 - **Total Revenue:** $29.07K across the channel lifetime
