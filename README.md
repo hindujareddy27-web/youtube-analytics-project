@@ -112,8 +112,10 @@ youtube-analytics-project/
 ### Page 1 — Channel Performance
 Subscriber conversion analysis, content length vs engagement, video category breakdown, and a "YouTube Wrapped" style best performance months table.
 
-### Page 2&3 — Geography & Monetization
-Global audience map with continent slicer, watch time vs views by country, CPM vs RPM scatter by content category, CTR quality breakdown, and top revenue videos.
+### Page 2 — Geography
+Global audience map with continent slicer, watch time vs views by country.
+### Page 3 — Monetization
+CPM vs RPM scatter by content category, CTR quality breakdown, and top revenue videos.
 
 ---
 
